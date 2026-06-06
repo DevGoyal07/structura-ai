@@ -2,7 +2,7 @@
 
 **Compressing structural design validation from days to seconds.**
 
-![Structura.AI dashboard](assets/dashboard.png)
+![Structura.AI dashboard](assets/Dashboard.png)
 
 Structura.AI is a web-based AI pre-screening tool that gives civil and structural engineers a fast safety check during the drafting phase — *before* committing to a full Finite Element Analysis (FEA) run.
 
