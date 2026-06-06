@@ -2,6 +2,8 @@
 
 **Compressing structural design validation from days to seconds.**
 
+![Structura.AI dashboard](assets/dashboard.png)
+
 Structura.AI is a web-based AI pre-screening tool that gives civil and structural engineers a fast safety check during the drafting phase — *before* committing to a full Finite Element Analysis (FEA) run.
 
 An engineer uploads a 2D structural layout (DXF or node-beam JSON) and basic load parameters. Within ~3 seconds, a trained Convolutional Neural Network returns a color-coded heat map of predicted stress zones — so designs reach formal FEA already refined.
