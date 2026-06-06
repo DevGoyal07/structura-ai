@@ -9,6 +9,7 @@ An engineer uploads a 2D structural layout (DXF or node-beam JSON) and basic loa
 > **Not a replacement for FEA.** Regulatory sign-off still requires a full simulation. Structura.AI shifts the expensive back-and-forth from late-stage simulation rework to fast, low-cost AI feedback in early design — making the formal FEA run a *confirmation* rather than a *discovery*.
 
 🔗 **Live demo:** https://structura-ai-six.vercel.app/
+🔗 **Video demo:** https://drive.google.com/file/d/1BTcLa_Psc_5p9EaHb09urKvtiGhzOBNb/view?usp=sharing
 
 ---
 
