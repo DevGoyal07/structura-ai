@@ -1,0 +1,25 @@
+# Structura.AI — Python dependencies
+# NOTE: These are the libraries your project description implies.
+# Verify and pin exact versions to match what you actually used:
+#   pip freeze > requirements.txt
+
+# --- Deep learning ---
+torch
+torchvision
+numpy
+
+# --- Backend (use whichever you actually built on) ---
+flask
+# fastapi
+# uvicorn
+
+# --- Geometry / CAD input handling ---
+ezdxf            # reading DXF files
+
+# --- Visualization (heat map rendering) ---
+matplotlib
+pillow
+
+# --- Utilities ---
+scipy
+pandas
